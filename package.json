@@ -1,0 +1,11 @@
+{
+    "name": "babel-preset-es2015-fuse",
+    "author": "Sebastian Reinhard <sebastian@sebbert.me>",
+    "license": "ISC",
+    "version": "1.0.0",
+    "repository": "https://github.com/sebbert/babel-preset-es2015-fuse.git",
+    "dependencies": {
+        "babel-preset-es2015": "^6.9.0",
+        "modify-babel-preset": "^2.0.2"
+    }
+}
